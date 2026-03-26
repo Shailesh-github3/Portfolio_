@@ -51,7 +51,7 @@ Upload to GitHub Pages for free hosting.
 
 #### index.html
 
-`
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -357,10 +357,10 @@ Upload to GitHub Pages for free hosting.
 </body>
 </html>
 
-`
+```
 #### style.css
 
-`
+```
 * {
     margin: 0;
     padding: 0;
@@ -909,7 +909,7 @@ body {
         grid-template-columns: 1fr;
     }
 }
-`
+```
 
 
 
